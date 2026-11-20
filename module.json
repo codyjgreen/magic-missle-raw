@@ -2,7 +2,7 @@
   "id": "magic-missile-raw-fix",
   "title": "Magic Missile RAW",
   "description": "Rules-as-written Magic Missile for dnd5e: one damage roll shared by every dart, upcast-aware dart counts, per-target dart allocation, per-dart damage application (separate concentration saves), Shield immunity, Empowered Evocation, and JB2A animations via Sequencer.",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "url": "https://github.com/codyjgreen/magic-missle-raw",
   "manifest": "https://github.com/codyjgreen/magic-missle-raw/releases/latest/download/module.json",
   "download": "https://github.com/codyjgreen/magic-missle-raw/releases/download/v2.0.0/magic-missile-raw-fix-v2.zip",
